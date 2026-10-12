@@ -1,0 +1,6 @@
+node_modules/
+tests/ui/screens/
+.DS_Store
+# Nunca subir claves privadas
+.env
+*.pem
